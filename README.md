@@ -1,4 +1,4 @@
-# Technical Analysis with Python
+# Analysis with Python
 Use Python to analysis Stock!
 
 --------------------------------------------------------------------------------
