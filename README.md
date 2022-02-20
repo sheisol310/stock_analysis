@@ -1,5 +1,4 @@
 # Analyze Stock with Python & Jupyter Notebook
---------------------------------------------------------------------------------
 # Credits
 First of all, I'd like to give credits to the my group members who all make contributions to complete this group project : <br>
 [jchen1379](https://github.com/jchen1379)<br>
