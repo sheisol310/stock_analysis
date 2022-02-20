@@ -1,6 +1,4 @@
-# Analysis with Python
-Use Python to analysis Stock!
-
+# Analyze Stock with Python & Jupyter Notebook
 --------------------------------------------------------------------------------
 # Credits
 First of all, I'd like to give credits to the my group members who all make contributions to complete this group project : <br>
@@ -12,8 +10,8 @@ First of all, I'd like to give credits to the my group members who all make cont
 *  Python3.x installation via [Anaconda](https://www.anaconda.com/distribution/) is recommended. You need PyCharm to open .py files and Jupyter Notebook to open .jpynb files. 
 
 # Stock Analysis 
-
-By running program on python, we get several charts and some numbers to help us perform both fundamental and technical analysis to determine if this stock is good to buy or sell now. In this report, we chose DIS (Walt Disney Company) to analyze.  [Check the Report](https://github.com/sheisol310/technical_analysis/blob/main/Report%20of%20Analysis.pdf)
+By running program on python, we get several charts and some numbers to help us perform both fundamental and technical analysis to determine if this stock is good to buy or sell now. In this report, we chose DIS (Walt Disney Company) to analyze.  
+[Check the Report](https://github.com/sheisol310/technical_analysis/blob/main/Report%20of%20Analysis.pdf)
 
 # License
 [MIT License](LICENSE)
