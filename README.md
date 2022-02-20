@@ -9,7 +9,7 @@ First of all, I'd like to give credits to the my group members who all make cont
 
 # Installation
 ## Software
-*  Python3.x (installation via [Anaconda](https://www.anaconda.com/distribution/) is recommended. You need PyCharm to open .py files and Jupyter Notebook to    open .jpynb files. 
+*  Python3.x installation via [Anaconda](https://www.anaconda.com/distribution/) is recommended. You need PyCharm to open .py files and Jupyter Notebook to open .jpynb files. 
 
 # Stock Analysis 
 
